@@ -19,7 +19,7 @@ main {
     background: #001F3F;
     color: white;
     padding: 20px;
-    
+
 }
 
 .header--image {
@@ -75,12 +75,16 @@ main {
 
 .meme {
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .meme--image {
-    max-width: 100%;
     border-radius: 3px;
+    width: 100%;
+    max-width: 600px;
 }
+
 
 .meme--text {
     position: absolute;
