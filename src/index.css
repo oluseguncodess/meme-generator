@@ -26,6 +26,11 @@ main {
     margin-right: 20px;
 }
 
+.header--image_round {
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
 .header--title {
     font-size: 1.25rem;
     margin-right: auto;
