@@ -2,4 +2,4 @@
 
 This project uses react to create a meme generator.
 
-Link to the life site -  [Meme Generator]([readme.com](https://meme-generator-livid-pi.vercel.app/)) 
+Link to the life site -  [Meme Generator](https://meme-generator-livid-pi.vercel.app/)
